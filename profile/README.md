@@ -24,4 +24,4 @@ _Develop a Speech to Sign Language translation model to overcome communication b
 
 ### Results
 
-<video src=https://github.com/SignBridgeApp/.github/assets/87369440/98cadb92-d76d-4eab-8038-a51901c31f6a />
+<video src=https://github.com/SignBridgeApp/.github/assets/87369440/328de692-72c3-43d6-8576-7af49229e6a6 />
