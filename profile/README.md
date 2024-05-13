@@ -2,6 +2,11 @@
 
 _Develop a Speech to Sign Language translation model to overcome communication barriers within the Deaf and Hard of Hearing community. Prioritize real-time, accurate translations for inclusivity in various domains. Utilize machine learning, focusing on user-friendly integration and global accessibility. Create a cost-effective solution that dynamically enhances communication, ensuring practicality and adaptability for widespread use._
 
+### Resources
+
+* [Report](https://github.com/SignBridgeApp/.github/files/15295523/report.pdf)
+* [Watch Presentation](https://www.canva.com/design/DAGFHXMvssg/uE0Vbo5aHHkTluG8jbQD2Q/view?utm_content=DAGFHXMvssg&utm_campaign=designshare&utm_medium=link) or [Download PDF](https://github.com/SignBridgeApp/.github/files/15295502/presentation.pdf)
+
 ### Objectives
 
 1. Real-Time Sign Language Production from Speech.
