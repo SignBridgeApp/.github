@@ -16,6 +16,12 @@ _Develop a Speech to Sign Language translation model to overcome communication b
 3. Multi-Language Support.
 4. Minimalist UI Design Showing Pose Signs.
 
+### Results
+
+<img src="https://github.com/SignBridgeApp/.github/assets/87369440/62f97f47-7877-4ca8-a8c1-6d37666ab831" alt="app" width="300"/>
+
+### Designs
+
 ![hld](https://github.com/SignBridgeApp/.github/assets/87369440/f6bf9fcd-aa08-4f32-9fa0-3f2092fff336)
 
 ![lld](https://github.com/SignBridgeApp/.github/assets/87369440/cf8fca19-8d66-409a-8d8c-8360277f4a6d)
