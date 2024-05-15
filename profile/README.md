@@ -6,8 +6,8 @@ _Develop a Speech to Sign Language translation model to overcome communication b
 
 * Get the latest version APK from [Releases Section](https://github.com/SignBridgeApp/SignBridge/releases/)
 * Server/Backend is hosted in [Huggingface Space](https://huggingface.co/spaces/bipinkrish/signbridge)
-* [Report](https://github.com/SignBridgeApp/.github/files/15295523/report.pdf)
-* [Watch Presentation](https://www.canva.com/design/DAGFHXMvssg/uE0Vbo5aHHkTluG8jbQD2Q/view) or [Download as PDF](https://github.com/SignBridgeApp/.github/files/15295502/presentation.pdf)
+* Read [Report](https://github.com/SignBridgeApp/.github/files/15318889/report.pdf)
+* View [Presentation](https://www.canva.com/design/DAGFHXMvssg/uE0Vbo5aHHkTluG8jbQD2Q/view)
 
 ### Objectives
 
